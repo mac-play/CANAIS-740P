@@ -1,6 +1,6 @@
-CANAIS-740P
-#EXTM3U CREDITS⁰⁸⁰⁰ @MACPLAYTV@GMAIL.COM
-4LUGAR LISTA [R$ 9,99]
+
+#EXTM3U 
+
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩🟨🟩
